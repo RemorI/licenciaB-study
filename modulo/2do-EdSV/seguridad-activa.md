@@ -2,7 +2,7 @@
 Se refiere al tipo de seguridad que aspira a evitar al máximo los accidentes.
 Comprende todas las soluciones que garanticen una frenada estable y potente, buenas recuperaciones y un comportamiento previsible que nos permita superar las posibles situaciones críticas.
 
-### Sistema de suspensión
+## Sistema de suspensión
 Para evitar accidentes generados por el suelo o los objetos en él, permitiendo el agarre y la estabilidad.
 - **Mecánica**: Los desplazamientos de las ruedas son absorvidos por los resortes.
 - **Hidráulica**: Los conjuntos hidráulicos soportan los desplazamientos de las ruedas.
@@ -23,7 +23,7 @@ Para evitar accidentes generados por el suelo o los objetos en él, permitiendo 
 - Tendencia del vehículo a salirse de la vía indica que los amortiguadores transeros se encuentran en mal estado.
 - Se observa dificultad al dar giros.
 
-### Sistema de frenos
+## Sistema de frenos
 El freno es el mecanismo encargado de aminorar la marcha del vehículo o detenerlo en caso de cualquier irregularidad.
 - Mecánico
 - Neumático
@@ -51,7 +51,7 @@ Por tanto el ABS nos permite:
 - Las pastillas de freno tienen una duración media de 40.000km a 50.000km y aunque aguanten más no se deberían usar por más de 90.000km ya que acabarán cristalizandose.
 - No mirar solo el lado de afuera de las pastillas.
 
-### Sistema de Dirección
+## Sistema de Dirección
 Orienta las ruedas a voluntad del conductor con precisióny suavidad.
 Si la dirección es asistiad, el esfuerzo sobre el volante se reduce considerablemente a través de un sistema hidráulico.
 Esto buscando un constante alto grado de adherencia de los neumáticos.
@@ -69,6 +69,8 @@ Los neumáticos deben:
 
 La _profundidad del dibujo_ debe tener como mínimo 1.6mm pero es conveniente que no baje de 2mm. Sino compromete el agarre sobre todo en suelos mojados.
 Los neumáticos tienen testigos, cuando se hagas hasta ese punto, es momento de cambiar el neumático.
+<br>
+
 La _presión_ depende del neumático, así que hay que mirar el manual de usuarios de los mismos
 Si el auto es incapaz de mantener una línea recta o se desvía al frenar, también como deslizamiento de las ruedas traseras en las curvas.
 Si un neumático rueda con baja presión, genera mayor desgaste.
