@@ -52,5 +52,30 @@ Por tanto el ABS nos permite:
 - No mirar solo el lado de afuera de las pastillas.
 
 ### Sistema de Dirección
+Orienta las ruedas a voluntad del conductor con precisióny suavidad.
+Si la dirección es asistiad, el esfuerzo sobre el volante se reduce considerablemente a través de un sistema hidráulico.
+Esto buscando un constante alto grado de adherencia de los neumáticos.
+<br>
 
-[Hoja 22]
+**Neumáticos**
+Su estado influye decisivamente sobre el comportamiento del automovil. La presión y estado del dibujo so factores a considerar la absoluta garantía de que el neumático cumple sus funciones.
+Los neumáticos deben:
+- Soportar el peso del auto y resistir las transferencias de carga en aceleración y en franada
+- Transmitir la potencia útil del motor y los esfuerzos de frenada de curva
+- Rodar regularmente de forma seguro y el mayor tiempo
+- Guiar el auto con precisión, por cualquier tipo de suelo y condición climática
+- Actuar como colchón amortiguador de las irregularidades de la carretera, asegurando el confort del conductor y los pasajeros
+- Participar en tres aspectos fundamentales como son: estabilidad, suspensión y frenada
+
+La _profundidad del dibujo_ debe tener como mínimo 1.6mm pero es conveniente que no baje de 2mm. Sino compromete el agarre sobre todo en suelos mojados.
+Los neumáticos tienen testigos, cuando se hagas hasta ese punto, es momento de cambiar el neumático.
+La _presión_ depende del neumático, así que hay que mirar el manual de usuarios de los mismos
+Si el auto es incapaz de mantener una línea recta o se desvía al frenar, también como deslizamiento de las ruedas traseras en las curvas.
+Si un neumático rueda con baja presión, genera mayor desgaste.
+<br>
+
+**Desgaste de los neumáticos**
+- Desgaste en el centro: La causa más probable es un **mayor** nivel de presión, se identifica por el desgaste en la parte central. Se aconseja la medición de la presión en frío, ya que la garantía no lo cubre.
+- Desgaste en los talones: La causa más probable es un **menor** nivel de presión, bajo inflado y sobrecarga, se identifica por el desgaste en los talones del auto. Se aconseja la medición de la presión en frío, ya que la garantía no lo cubre.
+- Desgaste anormal rápido: Esto es debido a un paralelismo incorrecto entre los neumáticos traseros, se identifica con estrías visibles en la banda. Se recomienda el control y la correción de la alineación de los neumáticos.
+
