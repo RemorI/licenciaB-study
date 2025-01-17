@@ -69,3 +69,9 @@ esfuerzo transmitido desde la parte trasera.
 Existen sistemas de seguridad modernos en los asientos que al momento de sufrir un choque por detrás, los mismos se deslizan automáticamente hacia atrás disminuyendo considerablemente la fuerza del latigazo en la nuca.
 
 ## Depósito de combustible (Módulo trasero)
+El objetivo de este depósito es amortiguar la energía en forma de deformaciones en caso de impacto, se deforma de forma programada, distribuyendo sus cargas entre los largueros y montantes traseros.
+Un interruptor de la bomba de combustible actúa por orden de un sensor inercial, impidiendo el flujo de combustible en caso que, un choque cause una rotura.
+
+## Cristales y limpiaparabrisas
+
+[32]
