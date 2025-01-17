@@ -73,5 +73,17 @@ El objetivo de este depósito es amortiguar la energía en forma de deformacione
 Un interruptor de la bomba de combustible actúa por orden de un sensor inercial, impidiendo el flujo de combustible en caso que, un choque cause una rotura.
 
 ## Cristales y limpiaparabrisas
+El compuesto del cristal del parabrisas está preparado para no astillarse en caso de choque. El de las ventanillas es más débil para permitir el escape.
+- Cristales pegados: El parabrisas y la luneta están pegados fueremente para mayor rigidez.
+- Cristales laminados: Se utilizan en el parabrisas y la luneta que son construídos en forma de sandwich: entre dos cristales se encuentra pegado un film de material sintético elástico. Permite que nada puede entrar por fuera y caso de romperse que se pueda seguir viendo a través.
 
-[32]
+## Cableado y elementos eléctricos
+Hoy en día exite un sistema de conexión eléctricos para evitar la gran utilización de cables dentro del vehículo. 
+
+## Chasis y carrocería
+Estos absorben la energía en caso de un impacto.
+- Carrocería con deformación programada: Ante un impacto, se debe deformar de esa forma específica para cuidar al conductor.
+- Habitáculo indeformable: La parte donde están los pasageros es sumente rígido y así no aplastar a los ocupantes.
+
+## Silla porta bebé
+Los niños y bebés siempre deben ir en el asiento trasero.
