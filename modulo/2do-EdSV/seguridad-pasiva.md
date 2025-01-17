@@ -50,3 +50,22 @@ El _efecto latigazo_ en un accidente de automóviles consiste en:
 Estos movimientos de la cabeza se refieren al efecto latigazo y produce lesiones en las vértebras cervicales.
 
 ## Columna de dirección articulada colapsable
+Esta columna cuenta con zonas de absorción de deformaciones que se localizan en la parte inferior del auto, donde se encuentran pedales y en la parte superior, unida al volante.
+La finalidad es evitar el retroceso de la columna de dirección en caso de choque frontal.
+
+## Volante con absorción de energía
+Que esta estudiado sin zonas rígidas y estructura depormable, la coroan del volante y los radios son amplios y redondeados, cubiertos por un material deformable que no produce astillas.
+
+## Pedalera colapsable
+Minimiza los daños en las extremidades inferiores del conductor en caso de colisión frontal.
+
+## Interior del habitáculo
+Es importante que si algún pasajero se ve desplazado en caso de impacto, no se golpee contra ningún elemento que le produzca daños. Pero cualquier problema que haya se evita usando los cinturones de seguridad.
+
+## Asientos
+En caso de colisión, el asiento debe soportar la carga de los pasajeros y los cinturones de seguridad
+que están fijados a la estructura, así como cualquier
+esfuerzo transmitido desde la parte trasera.
+Existen sistemas de seguridad modernos en los asientos que al momento de sufrir un choque por detrás, los mismos se deslizan automáticamente hacia atrás disminuyendo considerablemente la fuerza del latigazo en la nuca.
+
+## Depósito de combustible (Módulo trasero)
