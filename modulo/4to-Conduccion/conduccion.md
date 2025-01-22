@@ -14,4 +14,15 @@ El comportamiento humano es un factor de riesgo en accidentes de tránsito. La f
 ## La Conducción
 - Circulación en determinada marcha: Cuando se circula así, el motor funciona de forma más eficiente a bajas revoluciones, entre las 1000 y 2500 rpm. Cuando ocurran emergencias, los procedimientos de conducción son excepciones que se justifican con el fin de preservar la seguridad.
 - Circulación y velocidad: El ideal mantener la velocidad de circulación lo más uniforme posible y evitar las frenadas innecesarias que conlleven luego sus correspondientes aceleraciones.
-- Circulación por el carril derecho: 
+- Circulación por el carril derecho: Se recomienda evitar los carriles rápidos en las vías y circular en el carril de la mano derecha a la velocidad correspondiente.
+- Conducción en caravana: Se debe evitar la constante aceleración y detención, para cuidar el auto y ahorrar conbustible.
+- La conducción y el campo visual: El campo visual es del 80% por eso requiere un adecuado campo visual.
+- Panorama de la situación del tránsito
+    - La mirada hacia adelante a suficiente distancia
+    - Modificación constante del campo visual
+    - Mirada atenta,alternando a mayor o menos lejanía
+- Punto ciego: Son áreas de visión no cubiertas por los tres espejos retrovisores y por la visión directa delantera
+- La distancia de seguridad
+    - En la ciudad (50km/h); 30m de distancia y así se puede frenar por completo en 2 segundos.
+    - En la autopista (100km/h): 80m de distancia y así se puede frenar por completo en 3 segundos.
+    
