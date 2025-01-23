@@ -29,5 +29,17 @@ El comportamiento humano es un factor de riesgo en accidentes de tránsito. La f
 
 ## Las maniobras
 Maniobrar en el tránsito implica una alteración en el desplazamiento del vehículo pero todo esto siempre puede implicar un riesgo.
-- Maniobra de giro: puede ser causante de accidente si no se efectúa tomando los recaudos necesarios, se deben tener presente la prefencia de paso, y es **necesario** circular desde 30 metros antes por el costado más próximo al giro y la señal de giro.
-    - Giro a la izquierda:
+- **Maniobra de giro**: puede ser causante de accidente si no se efectúa tomando los recaudos necesarios, se deben tener presente la prefencia de paso, y es **necesario** circular desde 30 metros antes por el costado más próximo al giro y la señal de giro.
+    - **Giro a la izquierda**: en caso de calles de doble sentido, se deberá acercar el automóvil al centro de la misma, sin intentar aventajar al tránsito que viene de frente.
+    - **Giro a la derecha**: Se debe cuidar que el conductor por detrás sepa que vas a girar y que el giro sea lo más cerrado posible.
+- **Tramos con pendientes**
+    - **Pendiente descendiente**: Por gravedad el intervalo de revoluciones se adelanta en cierta medida.
+        1. Sin reducir la velocidad controlada, continuar en la marcha seleccionada
+        2. Si no se mantiene la velocidad controlada y se acelera en exceso, realizar pequeñas correciones puntuales con el freno
+        3. En caso de no poder mantener la velocidad, proceder a reducirla
+        4. En una marcha anterior, repetir todos los pasos anteriores
+        5. Si no es una pediente elevada, se recomienda circula en 5ta
+    - **Pendiente ascendente**: Es recomendable circular en la marcha más alta, y reducir a una marcha inferior lo más tarde posible para mantener la 5ta hasta 50 o 60 km/h
+- **Conducción racional y anticipación**: Siendo precavido es fácil observar y prepararse para imprevistos.
+- **Las cuevas**
+    - **Ténica de circulación en curvas**: 
