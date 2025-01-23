@@ -25,4 +25,9 @@ El comportamiento humano es un factor de riesgo en accidentes de tránsito. La f
 - La distancia de seguridad
     - En la ciudad (50km/h); 30m de distancia y así se puede frenar por completo en 2 segundos.
     - En la autopista (100km/h): 80m de distancia y así se puede frenar por completo en 3 segundos.
-    
+    - Estas distancias pueden aumentar en caso de condiciones de visibilidad reducida.
+
+## Las maniobras
+Maniobrar en el tránsito implica una alteración en el desplazamiento del vehículo pero todo esto siempre puede implicar un riesgo.
+- Maniobra de giro: puede ser causante de accidente si no se efectúa tomando los recaudos necesarios, se deben tener presente la prefencia de paso, y es **necesario** circular desde 30 metros antes por el costado más próximo al giro y la señal de giro.
+    - Giro a la izquierda:
