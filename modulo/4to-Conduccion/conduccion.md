@@ -104,4 +104,15 @@ Maniobrar en el tránsito implica una alteración en el desplazamiento del vehí
 - **Encandilamiento**: Se debe disminuir la velocidad y aumentar la distancia entre el vehículo de adelante y el propio, usar los giñosy dirigir la vista hacia la banquina.
 
 ## Diferentes contextos en la conducción
-
+- **Conducción en zonas urbanas**: Debido a la cantidad de autos y peatones que se cruzaran en el camino recurrentemente, es necesario tener en cuenta más que nunca:
+    - Respetar los semáforos
+    - Observar con mucho cuidado a los demás actores
+    - Tener comportamiento cauteloso y preventivo, sobre todo en zonas públicas
+    - Señalizar correctamente cada maniobra
+    - Respetar el derecho de prioridad de paso
+    - Siempre mantener distancia de seguridad
+    - Indicar estacionamiento y detenciones
+- **Conducción en rutas**: Asegurarse de ir con el auto en buenas condiciones, además de bien despierto y conduciendo según las leyes y caracteristicas del tiempo y el camino. Relizar paradas de 10 minutos cada 2 horas.
+<br> En rutas Nacionales, es obligatorio usar luces bajas aunque sea de día.
+<br> En caso de pinchar, no frenar y mover el auto hasta detenerse en la banquina.
+- **Conducción en autovías y autopistas**: 
