@@ -42,4 +42,30 @@ Maniobrar en el tránsito implica una alteración en el desplazamiento del vehí
     - **Pendiente ascendente**: Es recomendable circular en la marcha más alta, y reducir a una marcha inferior lo más tarde posible para mantener la 5ta hasta 50 o 60 km/h
 - **Conducción racional y anticipación**: Siendo precavido es fácil observar y prepararse para imprevistos.
 - **Las cuevas**
-    - **Ténica de circulación en curvas**: 
+    - **Ténica de circulación en curvas**
+        - Levantar el pie del acelerador y dejar rodar el automóvil por su propia innecesarias
+        - Efectuar las pequeñas correcciones necesarias para acomodar la velocidad con el freno del pie
+        - Reducir la velocidad en caso de ser necesario
+        - Una vez en la curva, mantener la velocidad requerida para su recorrido con el pedal del acelerador en la posición necesaria
+    - **Trazado de la curva**: Se debe realizar por el centro del carril correspondiente, sin realizar acostamientos en el trazado.
+        - Agujeros o desperfectos que presenten la vía en los laterales de la calle
+        - Posibles ángulos muertos al tomar la curva que oculten obstáculos
+        - Posibles automóviles que circulen por la vía en sentido contratio y el camino impida su visión
+    - **Maniobra de adelantamiento; maniobra peligrosa**: Se realiza para sobrepasar a otro vehículo que circula adelante y es la principal causante de accidentes en zonas suburbanas
+    - **Adelantamientos y marchas en paralelo**: El adelantamiento siempre debe tener utilidad, adelantar solo para avanzar un par de lugares no da ganancia de tiempo y solo se gasta combustible. Pero en casos necesarios el adelantamiento **siempre** tiene que ser por la izquierda:
+        - El que sobrepase debe constatar previamente que asu izquierda la vía esté libre en una distancia suficiente para evitar todo riesgo y que ningún conductor que le sigue esté sobrepasando
+        - Debe tener visibilidad suficiente y no iniciar la maniobra si se aproxima a una encrucijada, curva, puente o lugar peligroso
+        - Debe advertir al que precede su intención de sobrepasarlo por medio de destellos de las luces frontales o la bocina en la zona rural.
+        - Debe efectuarse el sobrepaso rápidamente de forma de retomar su lugar a la derecha, sin interferir la marcha del vehículo sobrepasado
+        - El vehículo que ha ser sobrepasado deberá reducir su velocidad
+    - **Choque frontal por adelantamiento**: El peligro se da cuando se desplaza por una vía de doble sentido de circulación, y son graves debido a las velocidades de ambos conductores.
+    - **Obstáculos durante la conducción**
+        - Cruces: Al pasar por un cruce es imprescindible tener una correcta visibilidad de la situación y del panorama del tránsito para poder adoptar una velocidad responsable
+        - Rotondas: Una vez en la entrada de la rotonda, se debe visualizar
+            - La amplitud de la calzada
+            - Las características de las curvas
+            - La existencia de un carril para bicicletas o peatones
+            - La presencia de otros vehículos en circulación o en espera
+        **Tiene prioridad** de paso el que circula por ella, sobre el que ingresa o el que sale
+    - **Incorporación y salidas de las carreteras**
+        - Incorporaciones: 
