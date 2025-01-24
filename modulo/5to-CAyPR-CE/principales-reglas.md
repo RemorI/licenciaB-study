@@ -12,4 +12,9 @@ En velocidades largas posibilita el ahorro comparativo del 20% en el número de 
 - Mientras no se pise el acelerador y se viaje a velocidad superior a 20kmh, no consume combustible
 
 ## Encendido del motor
+El motor se enciende sin acelerar, se gira la llave hasta el contacto para encender el auto pero no el motor. <br>
+Una vez se enciende el motor e **inicia la marcha** en los de nafta el motor se calienta empezando a andar, en los diesel es mejor esperar un momento antes de empezar.
 
+## Elección de la velocidad de conducción
+
+[63]
