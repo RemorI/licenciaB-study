@@ -87,4 +87,8 @@ Maniobrar en el tránsito implica una alteración en el desplazamiento del vehí
     6. Volver a enderezar la ruedas y corregir si es necesario
 
 ## La conducción y los factores climáticos
-
+- **Conducción con lluvia**
+    - La disminución del campo visual
+    - Modifica la distancia comúnmente necesaria para detener el vehículo
+    <br> El agua acumulada puede provocar la pérdida de dominio del vehículo, produciendo el efecto planeo o aquaplanning.
+- **Efecto planeo o aquaplanning**: 
