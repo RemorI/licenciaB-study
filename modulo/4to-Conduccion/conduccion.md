@@ -115,4 +115,11 @@ Maniobrar en el tránsito implica una alteración en el desplazamiento del vehí
 - **Conducción en rutas**: Asegurarse de ir con el auto en buenas condiciones, además de bien despierto y conduciendo según las leyes y caracteristicas del tiempo y el camino. Relizar paradas de 10 minutos cada 2 horas.
 <br> En rutas Nacionales, es obligatorio usar luces bajas aunque sea de día.
 <br> En caso de pinchar, no frenar y mover el auto hasta detenerse en la banquina.
-- **Conducción en autovías y autopistas**: 
+- **Conducción en autovías y autopistas**: En autopista se transita por la derecha a baja velocidad y se adelanta por la derecha aumentando la velocidad. En caso de tener que transitar más lento, moverse al carril derecho y salir en la próxima salida.
+- **Conducción en caminos de ripio y caminos naturales**: Es una calle de tierra cubierta con una superficie parecida a la grava.
+    - Seguir la huella marcada en el camino de ripio ya que es más firme
+    - Viajar a velocidad moderada
+    - No usar cubiertas lisas ni excesivamente reparadas
+    - No pisar el freno en caso de pinchazo, intentar dominarlo hasta detenerse
+    - Evitar maniobrar bruscamente
+    - No sobrepasar ni circular cerca de otro automóvil
