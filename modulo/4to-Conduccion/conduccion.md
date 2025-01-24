@@ -66,6 +66,6 @@ Maniobrar en el tránsito implica una alteración en el desplazamiento del vehí
             - Las características de las curvas
             - La existencia de un carril para bicicletas o peatones
             - La presencia de otros vehículos en circulación o en espera
-        **Tiene prioridad** de paso el que circula por ella, sobre el que ingresa o el que sale
+        <br> **Tiene prioridad** de paso el que circula por ella, sobre el que ingresa o el que sale
     - **Incorporación y salidas de las carreteras**
-        - Incorporaciones: 
+        - Incorporaciones: Se **necesita** que se alcance de forma aproximada, la velocidad del tránsito
