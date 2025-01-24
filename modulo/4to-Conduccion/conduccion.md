@@ -91,4 +91,17 @@ Maniobrar en el tránsito implica una alteración en el desplazamiento del vehí
     - La disminución del campo visual
     - Modifica la distancia comúnmente necesaria para detener el vehículo
     <br> El agua acumulada puede provocar la pérdida de dominio del vehículo, produciendo el efecto planeo o aquaplanning.
-- **Efecto planeo o aquaplanning**: 
+- **Efecto planeo o aquaplanning**: A velocidades superiores a 50km/h genera una película de agua bajo la llanta que genera un deslizamiento de las mismas
+- **Conducción con niebla**: la niebla tiene el efecto de una tenue llovizna que humedece las cubiertas y el parabrisas.
+    - Conducir con regularidad, evitar frenar bruscamente o constantemente, ya que es peligroso paraquienes circulen detrás
+    - No sobrepasar a otros en caso de niebla
+    - Mantener la distancia adecuada con el vehículo que circula adelante, ya que la humedad en el pavimento reduce la adherencia de las cubiertas
+    - Mantener luces bajas para no encalidar a otros
+- **Conducción por caminos con nieve o hielo**: La mayor dificultad aparece cuando la nieve se congela y se convierte en hielo, y genera que la adherencia sea nula.
+    - Reducir velocidad en puentes, zonas sombreadas y en proximidades a arroyos
+    - Pisar el pedal de freno con suavidad para evitar el bloqueo de las ruedas
+    - Si se pierde el control no frenar y soltar el acelerador lentamente, intentando controlar con el volante
+- **Encandilamiento**: Se debe disminuir la velocidad y aumentar la distancia entre el vehículo de adelante y el propio, usar los giñosy dirigir la vista hacia la banquina.
+
+## Diferentes contextos en la conducción
+
