@@ -71,4 +71,20 @@ Maniobrar en el tránsito implica una alteración en el desplazamiento del vehí
     - Incorporaciones: Se **necesita** que se alcance de forma aproximada, la velocidad del tránsito, pero generalmente sin necesidad de sobrepasar las **2500 revoluciones**.
     - Salidas: Se debe hacer sin estorbar a los que circulan detrás, salir de la calzada sin reducir la velocidad hasta entrar en el recorrido de desviación.
 - **Paso a nivel ferroviario**: Estas tienen señales de advertencia anticipada, es importante detenerse a **5 metros** antes del paso, la barrera bajando o baja significa que se debe detener inmediatamente, y cuando circula en paralelo a las vías, debe ceder el paso a los que atraviesan las vías.
-- **Paradas durante la marcha**: 
+- **Paradas durante la marcha**: Un auto gasta entre 0.4 a 0.7 L/h si está parado pero no es como antes, ahora los motores tienen muchos arranques, no se desgastan por ello.
+- **Detención**: Al tener que detenerse por un control o peaje:
+    - Anticipar la operación prestando atención a las señales de indicación
+    - Levantar el pie del acelerador y dejar rodar el automóvil por su propia inercia
+    - Efectuar las pequeñas correcciones necesarias para acomodar la velocidad con el freno de pie
+    - Reducir de marcha en caso de ser necesario
+    - Detención y parada final
+- **Estacionamiento en paralelo**: Requiere conjugar la precisión, la mayor rapidez posible, la prudencia y el debido cuidado para evitar consecuencias negativas para el resto.
+    1. Sobrepasar el sitio elegido para estacionar y detener el vehículo a un costado, comprobando que haya suficiente espacio
+    2. Girar las ruedas por completo hacia donde te quieras estacionar
+    3. Se hace marcha atrás hastra introducir la parte trasera hasta observar en el espejo contrario el frente del auto trasero por completo
+    4. Enderezar las ruedas y retroceder hasta observar por el espejo del otro lado que la manija delantera "toca" el cordón
+    5. Girar el volante por completo al lado contrario y retroceder hasta ubicarte
+    6. Volver a enderezar la ruedas y corregir si es necesario
+
+## La conducción y los factores climáticos
+
