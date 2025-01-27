@@ -41,3 +41,49 @@ Uno de los parámetros fundamentales dentro de la conducción eficiente es la fo
     - **Cambios de marcha con caja de cambios automática**: Las cajas de cambios automáticas eligen la relación de marcha adecuada sin intervención del conductor, en función de las revoluciones del motor y de la posición del acelerador.
 
 ## El motor: Variables relevantes en el consumo
+A partir de las 1000 o 1500 rpm, para una potencia dada, el consumo en litros/100km crece al aumentar las revoluciones.
+Cuando el motor esá en ralentí consume poco combustible, solo el necesario para generar la potencia imprescindible que permite hacer girar el motor a bajas revoluciones.
+El consumo a ralentí suele ser entre 0,4 y 0,7 litros/h según  la cilindrada y el tipo de motor.
+
+## El combustible
+Una vez introducido este se utiliza por la reacción química de combustión, en los motores modernos la combustión es completo, genera O2 y vapor de agua. Pero también generan otros contaminantes que son detenidos por el catalizador del caño de escape.
+
+## La transmisión
+La transmisión de la energía producida por el motor hasta las ruedas, que son las que propulsan el vehículo, se hace a través de la casa de cambios y el diferencial.
+El embrague tiene por objeto desconectar el motor de la caja de cambios, y por consiguiente, de la rueda.
+La caja de cambios permite que un motor pueda transmitir la máxima potencia a las ruedas a diferentes velocidades y con ello obtener fuertes aceleraciones utilizando marchas cortas.
+
+## Eficiencia energética en el motor
+El combustible libera energía térmica a través de la combustión dentro de los cilindros del motor.
+Esta energía se traduce en trabajo mecánico para el movimiento de las ruedas.
+
+## Las resistencias al avance del automóvil
+La potencia suministrada a la rueda del vehículo es, en cada instante, la necesaria para vencer sus resistencias al avance.
+- Resistencia de rodadura: es debida a la ligera deformación del neumático
+- Resistencia por pendiente: depende del peso del coche y de la pendiente
+- Resistencia por aceleración: es el producto de la masa del vehículo por la aceleración
+- Resistencia aerodinámica: depende de las dimensiones del vehículo, de su forma, de la temperatura y presión del aire
+
+## Características generales del vehículo
+La tecnología de los automóviles está evolucionando, permitiendo menor consumo de combustible y mayores rendimientos.
+- Los cambios automáticos convencionales ahorran esfuerzos al conductor pero a la vez consumen más que los cambios manuales.
+- La utilización de turbo compresores aumenta la potencia el rendimiento de los motores, aprovechando la energía de los gases de escape
+- La utilización óptima en los vehículos modernos del control electrónico del motor con gestión de inyeccióny el encendido de acuerdo con los requerimientos de la marcha
+
+## Aire acondicionado
+El AC es uno de los equipos accesorios de mayor incidencia en el consumo global de combustible, priorizando mantenerlo entre 23 y 24 grados.
+
+## Ventanillas
+Al conducir con las ventanillas bajas se modifica el coeficiente aerodinámico provocando una mayor oposición al movimiento, por lo tanto, es mejor usar el AC.
+
+## Mantenimiento preventivo
+Principales factores que influyen al consumo:
+- Diagnosis del motor: permite detectar averías ocultas que producen aumentos en gastos
+- Control de niveles y filtros: es importante mantenerlos en los niveles ideales
+- Presión de los neumáticos: provoca que el vehículo tenga mayor resistencia a la rodadura
+
+## Carga del vehículo
+La resistencia de la rodadura viene determinada por el peso del vehículo y la presión de los neumáticos, una desequilibrada distribución de la carga puede ofrecer mayor resistencia al aire e inestabilidad provocada por la disminución de adherencia del eje delantero.
+
+## Accesorios exteriores
+Transportar equipaje en la superficie aumenta la resistencia al aire e incrementa el consumo.
