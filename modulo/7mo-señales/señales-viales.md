@@ -22,3 +22,9 @@ Los semaforos regulan la circulación de vehículos y personas en las intersecci
 - **Luz verde** significa **Avance**. Es obligatorio hacerlo salvo en caso de falta de espacio al otro lado del Cruce
 - **Luz roja intermitente** advierte la presencia de un cruce peligroso
 - **Luz intermitente roja de la señal ferroviaria, paso nivel o descenso de barrera** en todos los caso significa **Detenerse**
+
+## Señalización vertical
+- **Señales reglamentarias**: Señalan lo que se puede hacer o lo que está prohubido hacer durante la circulación, generalmente son señales de **forma circular de color blanco con borde rojo y simbolos negro** excepto Stop, ceda el paso y contramano.
+- **Señales preventivas**: cumplen la funcion de avisar sobre el peligro presente al circular por las calles, con **forma cuadrada con fondo amarillo con diagonal vertical, borde y simbolo negro**.
+- **Señales informativas**: indican cuestiones relacionadas a la ruta, el destino o los servicios. Las señales de ruta o destino son **rectangulares con fondo verde, símbolo y texto en color blanco**, las señales de servicio son **fondo de color azul, símbolo negro con texto y cuadrado interior en color blanco**.
+- **Señales transitorias**: indican cambios ocasionales en la vía o la presencia de trabajadores o maquinarias sobre la misma, son **color anaranajado**.
