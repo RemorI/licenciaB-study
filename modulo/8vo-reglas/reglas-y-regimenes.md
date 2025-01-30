@@ -16,6 +16,7 @@ La mayor parte de los siniestros de tránsito son producto de la violación de l
 ### Zona urbana
 
 | Lugar | Vehículo | Máxima | Mínima |
+| ------------------------------ | ------- | ---------- | ----------- |
 | Calles | Todos | 40km/h | 20 km/h |
 | Avenidas | Todos | 60km/h | 30km/h |
 | Vías semaforizadas | Motos y autos | Coordinación | Mitad del máximo | 
