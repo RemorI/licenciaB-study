@@ -13,7 +13,7 @@ La mayor parte de los siniestros de tránsito son producto de la violación de l
     <br>
     La velocidad es el principal factor que determina la pérdida del dominio del vehículo, una velocidad superior o inferior a la establecida se considera una velocidad peligrosa.
 
-### Zona urbana
+### Zona Urbana
 
 | Lugar | Vehículo | Máxima | Mínima |
 | ----- | ----- | ----- | ----- |
@@ -24,5 +24,20 @@ La mayor parte de los siniestros de tránsito son producto de la violación de l
 | Alta concentración de personas | Todos | 20km/h | 10km/h |
 | Rutas que cruzan | Todos | 60km/h | 30km/h |
 
-### Zona rural
+### Zona Rural
+| Lugar | Vehículo | Máxima | Mínima |
+| ----- | ----- | ----- | ----- |
+| Carreteras | Motos y autos | 110km/h | 40km/h |
+| Carreteras | Camionetas, micros, buses | 90 km/h | Salvo maquinaria especial |
+| Carreteras | Camiones, autos con casa | 80 km/h | Salvo maquinaria especial |
+| Semiautopistas o autovías | Motos y autos | 120 km/h | Salvo maquinaria especial |
+| Semiautopistas o autovías | Camionetas | 110km/h | Salvo maquinaria especial |
+| Semiautopistas o autovías | Restantes | Id.Carreteras | Salvo maquinaria especial |
 
+### Zona Urbana y Rural
+| Lugar | Vehículo | Máxima | Mínima |
+| ----- | ----- | ----- | ----- |
+| Autopistas | Motos y autos | 130km/h | - |
+| Pasos a nivel sin barrera | Ómnibus y auto casas | 100 km/h | 65 km/h |
+| Pasos a nivel sin barrera | Restantes | Id.Carreteras | - |
+| Pasos a nivel sin barrera | Todos | 20km/h | 10km/h |
