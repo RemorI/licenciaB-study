@@ -40,4 +40,11 @@ El contenido de la Licencia Nacional de Conducir habilitante debe contener los s
 - **Curso teórico-práctico de educación para la seguridad vial**: Todas las personas que se presenten por primera vez, deberán obligatoriamente asistir a este curso. Este curso tiene por finalidad educar en seguridad vial a todos y cada uno de los postulantes preparandole para los siguientes exámenes.
 - **Examen Médico Psico-físico**: Es un requisito obligatorio tramitada ante un Centro Emisor Habilitado, se realizará una exploración exhaustiva de las capacidades tanto físicas como psiquicas del solicitante
 - **Objetivos**: El fin de esta evaluación es el de determinar la capacidad física y mental de una persona para la conducción de un vehículo automotor, y que la misma no se encuentre afectada por enfermedad o deficiencia alguna, que pueda determinar su incapacidad para conducir
-- **Alcance**: 
+- **Alcance**: Será exigido como requisito obligatorio previo a todo trámite de obtención o renovación de una Licencia Nacional de Conducir, sin excepciones.
+- **Requisitos previos**: Deberá presentarse con el DNI, una constancia de Grupo y Factor sanguíneo expedida por profesional médico y con el Formulario Único de Seguimiento del Trámite.
+- **Exámenes Psico-físicos**
+    - Aptitud física, sistema locomotor, el sistema nervioso y muscular, el sistema cardiovascular, el sistema renal, el sistema respiratorio, trastornos hematológicos y enfermedades metabólicas o endocrinas
+    - Aptitud visual
+    - Aptitud auditiva
+    - Aptitud psíquica
+- **Examen Teórico**: 
