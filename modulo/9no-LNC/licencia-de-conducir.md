@@ -47,4 +47,20 @@ El contenido de la Licencia Nacional de Conducir habilitante debe contener los s
     - Aptitud visual
     - Aptitud auditiva
     - Aptitud psíquica
-- **Examen Teórico**: 
+- **Examen Teórico**: Es un examen de carácter obligatorio y eliminatorio tiene como objetivo verificar los conocimientos teóricos
+- **Examen Teórico-Práctico sobre detección de fallas de los elementos de seguridad de los vehículos**: Es un examen de carácter obligatorio y eliminatorio, teniendo como objetivo verificar los conocimientos teóricos y prácticos sobre detección de fallas de los elementos de seguridad del vehículo
+- **Examen Práctico de idoneidad conductiva**: El examen práctico tiene como finalidad y conocimientos básicos y necesarios para conducir aquel tipo de vehículo
+
+## Argentinos que circulen en el exterior y extranjeros que circulen en Argentina
+Hay varios Convenios Internacionales que se encuentra vigentes en materia de circulación Internacionales
+- **Mercosur**: Los vehículos comunitarios del Mercosu, de propiedad de las personas físicas residentes o de personas jurídicas con sede social en un Estado Parte, contando con los siguientes documentos:
+    - Documento de identidad válido para circular en el Mercosur
+    - Licencia de Conducir
+    - Documento que lo califica como turista emitido por la autoridad migratoria
+    - Autorización para conducir el vehículo en los casos exigidos en esta Norma
+    - Título u otro documento oficial que acredite la propiedad del vehículo
+    - Comprobante de seguro vigente
+- **Chile**: En Chile existe un Acuerdo Bilateral sobre aceptación recíproca de las licencias de conducir de los nacionales de ambos países 
+- **Italia y España**: Hay dos acuerdos con el Gobierno español e italiano sobre Reconocimiento Recíproco y canje de licencias de conducir
+- **Resto del mundo**: Se encuentra vigente la convención sobre circulación por carretera pero igualmente es necesario poseer una licencia de conducir Internacionales
+- **Gestión de la Licencia Internacional**: Con respecto a ello y en caso de ser necesario, dos son los organismos ante los cuales se puede gestionar la Licencia Internacional
