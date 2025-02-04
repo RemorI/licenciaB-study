@@ -49,4 +49,4 @@ Si bien todos tenemos que cumplir las mismas reglas y normas, es ideal conocer q
 7. Acelerador, embrague y cambios: se utilizan de forma suave y progresiva, pero no lentos.
 8. Conducción con pasajero: manejar con suavidad, reduciendo la velocidad en las curvas, acelerando y frenando sin brusquedades
 9. Conducción en mojado: evitar maniobras bruscas, tiempos de reacción más rápidos, frenado sobre todo con el freno trasero
-10. Conducción nocturna: 
+10. Conducción nocturna: Lo ideal es reducir la velocidad y usar los faros en perfecto estado, asegurarse de no estar cansado y poder reaccionar a tiempo
