@@ -76,14 +76,15 @@ Si bien todos tenemos que cumplir las mismas reglas y normas, es ideal conocer q
 - Descender de la motocicleta una vez que esté sin movimiento y con el motor apagado
 
 ## Velocidades máximas y mínimas
-| ---- | Lugar | Máxima | Mínima |
+| - | Lugar | Máxima | Mínima |
 | ---- | ---- | ---- | ---- |
 | Urbana | Calles | 40km/h | 20km/h |
 | Urbana | Avenidas | 60km/h | 30kmh |
 | Urbana | Vías semaforizadas | Coordinación semafórica | Mitad del máximo |
 | Urbana | Intersecciones | 30km/h | 15km/h |
 | Urbana | Rutas que cruzan | 60 km/h | 30 km/h |
-| ---- | ---- | ---- | ---- |
+|  |  |  |  |
 | Rural | Carreteras | 110km/h | 40 km/h |
 | Rural | Semiautopistas o Autovías | 120 km/h | Salvo maquinaria especial |
+|  |  |  |  |
 | Urbana y rural | Autopistas | 130km/h | - |
