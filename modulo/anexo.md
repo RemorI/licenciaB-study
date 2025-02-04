@@ -50,3 +50,40 @@ Si bien todos tenemos que cumplir las mismas reglas y normas, es ideal conocer q
 8. Conducción con pasajero: manejar con suavidad, reduciendo la velocidad en las curvas, acelerando y frenando sin brusquedades
 9. Conducción en mojado: evitar maniobras bruscas, tiempos de reacción más rápidos, frenado sobre todo con el freno trasero
 10. Conducción nocturna: Lo ideal es reducir la velocidad y usar los faros en perfecto estado, asegurarse de no estar cansado y poder reaccionar a tiempo
+
+## Conducción responsable
+- No exceder los límites de velocidad permitidos
+- Usar el casco correctamente sujeto
+- No conducir bajo los efectos del alcohol o estupefacientes
+- No realizar maniobras bruscas que pongan en peligro la estabilidad de la motocicleta
+- Circular siempre con la luz encendida
+- Indicar con la debida anticipación los giros o cambios de carril, utilizar las luces correspondientes
+- Respetar las señales de tránsito
+- Respetas los semáforos
+- No frenar de manera brusca en condiciones normales de manejo
+- Guardar distancia de seguridad con el vehículo que lo precede
+- En escuelas y zonas concurridas, disminuir la velocidad
+- Ceder el paso a ambulancias, camiones de bomberos y patrullas policiales
+
+## En caso de viajar como acompañante
+- Usar siempre el casco correctamente sujetado
+- Subir a la motocicleta luego de que el motor este en marcha
+- Los pies en los estribos
+- Sujetarse a la cintura del conductor
+- No distraer al conductor ni realizar maniobras que afecten la estabilidad del rodado
+- Siempre viajar por detrás del conductor
+- Inclinarse con el movimiento del conductor para evitar que el aire que roza al cuerpo desequilibre la aerodinámica del rodado
+- Descender de la motocicleta una vez que esté sin movimiento y con el motor apagado
+
+## Velocidades máximas y mínimas
+| ---- | Lugar | Máxima | Mínima |
+| ---- | ---- | ---- | ---- |
+| Urbana | Calles | 40km/h | 20km/h |
+| Urbana | Avenidas | 60km/h | 30kmh |
+| Urbana | Vías semaforizadas | Coordinación semafórica | Mitad del máximo |
+| Urbana | Intersecciones | 30km/h | 15km/h |
+| Urbana | Rutas que cruzan | 60 km/h | 30 km/h |
+| ---- | ---- | ---- | ---- |
+| Rural | Carreteras | 110km/h | 40 km/h |
+| Rural | Semiautopistas o Autovías | 120 km/h | Salvo maquinaria especial |
+| Urbana y rural | Autopistas | 130km/h | - |
