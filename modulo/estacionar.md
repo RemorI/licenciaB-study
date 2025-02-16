@@ -20,3 +20,12 @@
 6. Enderezar el volante
 7. Encajar el auto
 
+## Estacionar hacia adelante (vertical)
+1. Frenar alineando los espejos con el auto inferior lo más lejos posible de los autos
+2. Girar el volante totalmente a la derecha
+3. Avanzar hasta estar dentro de las líneas
+4. Ir doblando lentamente hacia a la izquierda para poder enderezarte
+5. Enderezar el volante
+6. Acomodarse en el lugar
+
+
