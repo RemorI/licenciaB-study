@@ -88,3 +88,53 @@ Si bien todos tenemos que cumplir las mismas reglas y normas, es ideal conocer q
 | Rural | Semiautopistas o Autovías | 120 km/h | Salvo maquinaria especial |
 |  |  |  |  |
 | Urbana y rural | Autopistas | 130km/h | - |
+
+## Licencias de conducir
+- Clase A.1
+- Clase A.2
+- Clase A.2.1
+- Clase A.3
+- Clase A.4
+
+## Requisitos para circular
+- El conductor debe portar la licencia que lo habilita para conducir esa clase de motocicleta
+- Cédula de identificación de la motocicleta
+- Debe llevar el seguro correspondiente
+- Poseer la placa patente correctamente colocada
+
+## Elementos de seguridad
+- Luces
+- Ruedas y neumáticos
+- Cascos
+    - Funciones del casco
+        - Casco integral
+        - Casco modular
+        - Casco de motocross
+        - Casco abierto
+    - Cascos abiertos y cascos cerrados
+    - Componentes del casco
+
+# Peatones y bicicletas
+
+## Los Peatones
+El espacio público es un espacio complejo, es el propio peatón quien debe cumplir con las leyes de tránsito y seguir los consejos de seguridad pero el auto debe respetar siempre las prioridades de paso.<br>
+Los peatones transitarán:
+- En zona Urbana
+- En zona Rural
+- En zonas Urbanas y Rurales
+- **Consejos para el peatón**
+    - Antes de atravesar una calle o camino, se recomienda parar la marcha, mirar hacia ambos lados, escuchar y luego cruzar
+    - En caso de caminar por lugares donde no hay veredas se debe hacer lo más alejado posible
+    - No cruzar entre vehículos que estén detenidos o estacionados
+    - Respetar los semáforos
+    - Al caminar de noche, usar ropa de colores vistosos
+    - Con niños, tomarlos firmemente de la mano al cruzar la calle
+    - No subir ni bajas mientras el colectivo sigue en movimmiento
+    - No cruzar en diagonal las calles y avenidas
+- **Consejos para el conductor**: el peatón tiene prioridad sobre todos los conductores de la vía pública
+    - Como conductores, se debe tener una actitud de consideración hacia los peatones se transite por una avenida de la ciudad, por una carretera o por un camino rural
+    - Conducir con cuidado y bajar la velocidad cuando haya peatones concurridas
+    - No olvidar que alguien puede aparecer de manera imprevista detrás de autos estacionados
+    - Los ancianos y discapacitados necesitan más tiempo para cruzar la calle, esperar hasta que completen el recorrido
+    - Ser especialmente prudente en la conducción cuando haya niños en las cercanías
+
