@@ -20,6 +20,13 @@
 6. Enderezar el volante
 7. Encajar el auto
 
+## Estacionar en reversa (directo)
+1. Posicionarse por las ruedas en el segundo próximo estacionamiento a 1m de distancia de los autos
+2. Girar el volento totalmente a la derecha
+3. Retroceder hasta estar paralelo en tu estacionamiento
+4. Enderezar el volante
+5. Seguir retrocediendo hasta estacionar
+
 ## Estacionar hacia adelante (vertical)
 1. Frenar alineando los espejos con el auto inferior lo más lejos posible de los autos
 2. Girar el volante totalmente a la derecha
