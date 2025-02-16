@@ -11,3 +11,12 @@
 8. Enderezar el volante
 9. Acelerar hasta ubicarte en medio
 
+## Estacionar en reversa
+1. Alinear el espejo derecho con el límite superior
+2. Girar el volante totalmente a la izquierda
+3. Manejar hacia adelante hasta ver el límite superior por el espejo derecho
+4. Girar el volante totalmente a la derecha
+5. Retroceder hasta estar en paralelo
+6. Enderezar el volante
+7. Encajar el auto
+
