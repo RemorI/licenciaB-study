@@ -5,6 +5,8 @@
 - **Luz difuminada**: Permite disminuir la intensidad reflectada por la luz normal
 - **Luz diurna**: Realizan la función de los faros cortos o largo alcance, así como el de antiniebla o intermitentes
 
+![Luces delanteras](https://www.rodesrecambios.es/wp-content/uploads/2023/02/alumbrado-delantero-coche-infografia.png)
+
 ## Iluminación trasera
 - **Posición**: Reflejan una luz roja y debe colocarse en concordancia con las lateras
 - **Antiniebla**: Informan al resto de usuarios de la vía la presencia del vehículo en la misma
