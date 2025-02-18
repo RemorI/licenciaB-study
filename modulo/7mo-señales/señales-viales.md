@@ -28,3 +28,5 @@ Los semaforos regulan la circulación de vehículos y personas en las intersecci
 - **Señales preventivas**: cumplen la funcion de avisar sobre el peligro presente al circular por las calles, con **forma cuadrada con fondo amarillo con diagonal vertical, borde y simbolo negro**.
 - **Señales informativas**: indican cuestiones relacionadas a la ruta, el destino o los servicios. Las señales de ruta o destino son **rectangulares con fondo verde, símbolo y texto en color blanco**, las señales de servicio son **fondo de color azul, símbolo negro con texto y cuadrado interior en color blanco**.
 - **Señales transitorias**: indican cambios ocasionales en la vía o la presencia de trabajadores o maquinarias sobre la misma, son **color anaranajado**.
+
+![Tipos de señales](https://imgur.com/a/pvI0JBt)
