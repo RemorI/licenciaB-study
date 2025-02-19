@@ -2,7 +2,7 @@
 En velocidades largas posibilita el ahorro comparativo del 20% en el número de cambio realizados.
 
 ## Principales claves para optimizar la conducción
-- Circular en la velocidad más alta posible y a bajas revoluciones, es decir, en uan marcha cómoda y con el motor lo menos exigido posible
+- Circular en la velocidad más alta posible y a bajas revoluciones, es decir, en una marcha cómoda y con el motor lo menos exigido posible
 - Mantener la velocidad de circulación lo más uniforme posible
 - En los procesos de aceleración, cambiar de velocidad:
     - Entre 2000 y 2500 revoluciones en los motores de nafta
@@ -18,8 +18,9 @@ Una vez se enciende el motor e **inicia la marcha** en los de nafta el motor se 
 ## Elección de la velocidad de conducción
 Uno de los parámetros fundamentales dentro de la conducción eficiente es la forma de realizar los cambios de velocidad.
 - **El cuentarrevoluciones**: Cuando se acelera, las revoluciones aumentan y se hace necesario pasar a la siguiente marcha en 1500 o 2000 revoluciones.
-- **Realización general de los cambios de velocidad**: En los procesos de aceleración se realizan cambiando de forma rápida hasta la velocidad más alta a la que se pueda circulación
+- **Realización general de los cambios de velocidad**: En los procesos de aceleración se realizan cambiando de forma rápida hasta la velocidad más alta a la que se pueda circular
     - **Según las revoluciones**
+        - Motores a gas: entre 2000 y 2500 rpm
         - Motores a nafta: entre 2000 y 2500 rpm
         - Motores diesel: entre 1500 y 2000 rpm
     - **Según la velocidad**
@@ -28,15 +29,15 @@ Uno de los parámetros fundamentales dentro de la conducción eficiente es la fo
         - 4ta marcha: a partir de los 40kmh - 50kmh
         - 5ta marcha: a partir de los 50kmh - 66 kmh
         - 6ta marcha: a partir de los 80kmh
-    - **1ra Marcha**: Es la velocidad más corta y la mayor fuerza transmite al vehículo, pero es la que más consume combustible.
+    - **1ra Marcha**: Es la velocidad más corta y la que mayor fuerza transmite al vehículo, pero es la que más consume combustible.
     - **Las marchas largas**: Cuando más larga sea la marcha con la que se circula, es decir cuanto menos exigido vaya el motor en el cambio que corresponda, siempre por encima de un número mínimo de revoluciones, menos consumo de combustible.
     - **La 5ta marcha**: Aunque sea ideal usarlo a partir de los 50-60kmh si estamos en una zona con muchas intersecciones y frenadas, es mejor mantenerlo bajo para poder responder con propiedad.
-- **La progresión en las marchas**: Mantener el cambio de marchas según las revoluciones y las velocidades para cada marcha, pero en casos especiales cuando se superern las 2500 revoluciones, se pueden saltar una marcha, por ejemplo, de 2da a 4ta.
+- **La progresión en las marchas**: Mantener el cambio de marchas según las revoluciones y las velocidades para cada marcha, pero en casos especiales cuando se superen las 3500 revoluciones, se pueden saltar una marcha, por ejemplo, de 2da a 4ta.
     1. Encender el motor girando la llave sin acelerar
     2. Introducir 1ra marcha y acelerar en forma suave y progresiva
     3. Luego de 2 segundos o 6 metros de recorrido, cambiar a 2da
-    4. A las 2500 revoluciones o antes cambiar a la 3ra marcha y elevar las revoluciones a las requeridas para circular en la misma sin levantar el pie del acelerador. Proseguir con continuidad en la aceleración hacia la 4ta marcha
-    5. Cambiar a la 5ta marcha una vez alcanzados los 50kmh aproximadamente y acelerar nuevamente para dar continuidad al proceso de aceleración deseado
+    4. A las 3500 revoluciones o antes cambiar a la 3ra marcha y elevar las revoluciones a las requeridas para circular en la misma sin levantar el pie del acelerador. Proseguir con continuidad en la aceleración hacia la 4ta marcha
+    5. Cambiar a la 5ta marcha una vez alcanzados los 50km/h aproximadamente y acelerar nuevamente para dar continuidad al proceso de aceleración deseado
     - **El freno de motor y las reducciones de marchas**: En caso de desaceleración por diminucuón de velocidad de circulación en la carretera, si es posible sin reducción de marcha y el freno de pie para las pequeñas correcciones. Cuando se habla de **freno de motor** se refiere a dejar al auto moverse por la inercia y sin pisar el acelerador. Así las revoluciones irán bajando y permitirá bajar las marchas.
     - **Cambios de marcha con caja de cambios automática**: Las cajas de cambios automáticas eligen la relación de marcha adecuada sin intervención del conductor, en función de las revoluciones del motor y de la posición del acelerador.
 
@@ -46,10 +47,10 @@ Cuando el motor esá en ralentí consume poco combustible, solo el necesario par
 El consumo a ralentí suele ser entre 0,4 y 0,7 litros/h según  la cilindrada y el tipo de motor.
 
 ## El combustible
-Una vez introducido este se utiliza por la reacción química de combustión, en los motores modernos la combustión es completo, genera O2 y vapor de agua. Pero también generan otros contaminantes que son detenidos por el catalizador del caño de escape.
+Una vez introducido este se utiliza por la reacción química de combustión, en los motores modernos la combustión es completa, genera O2 y vapor de agua. Pero también generan otros contaminantes que son detenidos por el catalizador del caño de escape.
 
 ## La transmisión
-La transmisión de la energía producida por el motor hasta las ruedas, que son las que propulsan el vehículo, se hace a través de la casa de cambios y el diferencial.
+La transmisión de la energía producida por el motor hasta las ruedas, que son las que propulsan el vehículo, se hace a través de la caja de cambios y el diferencial.
 El embrague tiene por objeto desconectar el motor de la caja de cambios, y por consiguiente, de la rueda.
 La caja de cambios permite que un motor pueda transmitir la máxima potencia a las ruedas a diferentes velocidades y con ello obtener fuertes aceleraciones utilizando marchas cortas.
 
@@ -67,8 +68,8 @@ La potencia suministrada a la rueda del vehículo es, en cada instante, la neces
 ## Características generales del vehículo
 La tecnología de los automóviles está evolucionando, permitiendo menor consumo de combustible y mayores rendimientos.
 - Los cambios automáticos convencionales ahorran esfuerzos al conductor pero a la vez consumen más que los cambios manuales.
-- La utilización de turbo compresores aumenta la potencia el rendimiento de los motores, aprovechando la energía de los gases de escape
-- La utilización óptima en los vehículos modernos del control electrónico del motor con gestión de inyeccióny el encendido de acuerdo con los requerimientos de la marcha
+- La utilización de turbo compresores aumenta la potencia del rendimiento de los motores, aprovechando la energía de los gases de escape
+- La utilización óptima en los vehículos modernos del control electrónico del motor con gestión de inyección y el encendido de acuerdo con los requerimientos de la marcha
 
 ## Aire acondicionado
 El AC es uno de los equipos accesorios de mayor incidencia en el consumo global de combustible, priorizando mantenerlo entre 23 y 24 grados.
