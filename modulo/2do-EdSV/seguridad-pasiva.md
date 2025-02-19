@@ -22,7 +22,7 @@ Es obligatorio el uso de cinturón, ya que esto permite:
 - Evita ser lanzado hacia adelante, lo que haría que el cuerpo choque
 - Evita que las cabezas de los ocupantes de los asientos traseros golpeen la nuca de los ocupantes de los asientos delanteros
 - En caso de rescate, se suelta presionando un botón o se corta
-- Evita ser expulsado afuera del vehículo disminutendo las posibilidades de lesiones más graves y de muerte
+- Evita ser expulsado afuera del vehículo disminuyendo las posibilidades de lesiones más graves o de muerte
 <br>
 
 **Condiciones para los cinturones de seguridad**
@@ -32,7 +32,7 @@ Es obligatorio el uso de cinturón, ya que esto permite:
 
 **Importancia del cinturón de seguridad**
 A solo 20km cuando se produzca un choque se golpea con una fuerza de 6 veces el cuerpo.
-El cinturón de seguridad protege al individuo, porque al retenerlo en el asiento disminute las cosnecuenciasdel choque y aunque resulte lesionado será mucho menor.
+El cinturón de seguridad protege al individuo, porque al retenerlo en el asiento disminute las cosnecuencias del choque y aunque resulte lesionado será mucho menor.
 <br>
 
 El **apoya cabezas** también fue un elemento importante para evitar lesiones cervicales.
@@ -54,7 +54,7 @@ Esta columna cuenta con zonas de absorción de deformaciones que se localizan en
 La finalidad es evitar el retroceso de la columna de dirección en caso de choque frontal.
 
 ## Volante con absorción de energía
-Que esta estudiado sin zonas rígidas y estructura depormable, la coroan del volante y los radios son amplios y redondeados, cubiertos por un material deformable que no produce astillas.
+Que esta estudiado sin zonas rígidas y estructura deformable, la corona del volante y los radios son amplios y redondeados, cubiertos por un material deformable que no produce astillas.
 
 ## Pedalera colapsable
 Minimiza los daños en las extremidades inferiores del conductor en caso de colisión frontal.
@@ -63,9 +63,7 @@ Minimiza los daños en las extremidades inferiores del conductor en caso de coli
 Es importante que si algún pasajero se ve desplazado en caso de impacto, no se golpee contra ningún elemento que le produzca daños. Pero cualquier problema que haya se evita usando los cinturones de seguridad.
 
 ## Asientos
-En caso de colisión, el asiento debe soportar la carga de los pasajeros y los cinturones de seguridad
-que están fijados a la estructura, así como cualquier
-esfuerzo transmitido desde la parte trasera.
+En caso de colisión, el asiento debe soportar la carga de los pasajeros y los cinturones de seguridad que están fijados a la estructura, así como cualquier esfuerzo transmitido desde la parte trasera.
 Existen sistemas de seguridad modernos en los asientos que al momento de sufrir un choque por detrás, los mismos se deslizan automáticamente hacia atrás disminuyendo considerablemente la fuerza del latigazo en la nuca.
 
 ## Depósito de combustible (Módulo trasero)
@@ -83,7 +81,7 @@ Hoy en día exite un sistema de conexión eléctricos para evitar la gran utiliz
 ## Chasis y carrocería
 Estos absorben la energía en caso de un impacto.
 - Carrocería con deformación programada: Ante un impacto, se debe deformar de esa forma específica para cuidar al conductor.
-- Habitáculo indeformable: La parte donde están los pasageros es sumente rígido y así no aplastar a los ocupantes.
+- Habitáculo indeformable: La parte donde están los pasajeros es sumente rígido y así no aplastar a los ocupantes.
 
 ## Silla porta bebé
 Los niños y bebés siempre deben ir en el asiento trasero.

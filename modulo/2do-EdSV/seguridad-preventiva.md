@@ -1,5 +1,5 @@
 # Seguridad Peventiva
-La seguridad preventiva depende del conjunto de soluciones técnicas y del contenido de elementos que hacen distendida la vida a bordo de automóvil.
+La seguridad preventiva depende del conjunto de soluciones técnicas y del contenido de elementos que hacen distendida la vida a bordo del automóvil.
 
 ## La Visibilidad
 Permiten un mejor dominio de la carretera y facilitan las maniobras, incluso en condiciones atmosféricas desfavorables.
