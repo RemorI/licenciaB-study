@@ -9,7 +9,7 @@ El contenido de la Licencia Nacional de Conducir habilitante debe contener los s
 - Prótesis que debe usar o condiciones impuestas al titular para conducir
 - Fechas de otorgamiento y vencimiento e identificación de funcionario y organismo expedidor
 - Grupo y factor sanguíneo del titular acreditado por profesional competente
-- A pedido del titular de la licnecnia se hará constar su voluntad de ser donante de órganos en caso de muerte
+- A pedido del titular de la licencia se hará constar su voluntad de ser donante de órganos en caso de muerte
 
 ## Clases de Licencias
 - **Clase A.1**: Ciclomotores para menores entre 16 y 18 años.
@@ -39,7 +39,7 @@ El contenido de la Licencia Nacional de Conducir habilitante debe contener los s
 ## Cursos y exámenes
 - **Curso teórico-práctico de educación para la seguridad vial**: Todas las personas que se presenten por primera vez, deberán obligatoriamente asistir a este curso. Este curso tiene por finalidad educar en seguridad vial a todos y cada uno de los postulantes preparandole para los siguientes exámenes.
 - **Examen Médico Psico-físico**: Es un requisito obligatorio tramitada ante un Centro Emisor Habilitado, se realizará una exploración exhaustiva de las capacidades tanto físicas como psiquicas del solicitante
-- **Objetivos**: El fin de esta evaluación es el de determinar la capacidad física y mental de una persona para la conducción de un vehículo automotor, y que la misma no se encuentre afectada por enfermedad o deficiencia alguna, que pueda determinar su incapacidad para conducir
+    - **Objetivos**: El fin de esta evaluación es el de determinar la capacidad física y mental de una persona para la conducción de un vehículo automotor, y que la misma no se encuentre afectada por enfermedad o deficiencia alguna, que pueda determinar su incapacidad para conducir
 - **Alcance**: Será exigido como requisito obligatorio previo a todo trámite de obtención o renovación de una Licencia Nacional de Conducir, sin excepciones.
 - **Requisitos previos**: Deberá presentarse con el DNI, una constancia de Grupo y Factor sanguíneo expedida por profesional médico y con el Formulario Único de Seguimiento del Trámite.
 - **Exámenes Psico-físicos**
@@ -53,7 +53,7 @@ El contenido de la Licencia Nacional de Conducir habilitante debe contener los s
 
 ## Argentinos que circulen en el exterior y extranjeros que circulen en Argentina
 Hay varios Convenios Internacionales que se encuentra vigentes en materia de circulación Internacionales
-- **Mercosur**: Los vehículos comunitarios del Mercosu, de propiedad de las personas físicas residentes o de personas jurídicas con sede social en un Estado Parte, contando con los siguientes documentos:
+- **Mercosur**: Los vehículos comunitarios del Mercosur, de propiedad de las personas físicas residentes o de personas jurídicas con sede social en un Estado Parte, contando con los siguientes documentos:
     - Documento de identidad válido para circular en el Mercosur
     - Licencia de Conducir
     - Documento que lo califica como turista emitido por la autoridad migratoria
