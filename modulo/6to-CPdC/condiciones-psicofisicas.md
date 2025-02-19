@@ -14,7 +14,7 @@ Se refiere al conductor con una disminución o deficiencia física del aparato l
 - La licencia: El trámite para obtener la licencia de conducir es igual al que debe realizar cualquier postulante a obtener la licencia, pero con el automóvil modificado a necesidad
 
 ## Los factores que afectan las condiciones físicas
-- **El cansancio**: El cansancio provoca falta de visió y disminuye la capacidad de reacción, un conductor cansado no toma buenas decisiones y pone en peligro su vida y la de los demás
+- **El cansancio**: El cansancio provoca falta de visión y disminuye la capacidad de reacción, un conductor cansado no toma buenas decisiones y pone en peligro su vida y la de los demás
 - **Bebidas alcohólicas**
     - Peligros por consumo de bebidas alcohólicas: Un alto índice de muertes asociadas a siniestros viales se debe al consumo de bebidas alcohólicas
     - Efectos de las bebidas alcohólicas: Reducen todas las capacidades mentales, afecta los reflejos y retarda el tiempo que el conductor necesita para reaccionar, reduciendo la capacidad para ver claramente
