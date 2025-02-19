@@ -50,12 +50,12 @@ Se denomina siniestro de tránsito a todo hecho que produzca daño en personas o
     - No usar casco
     - Conducir estando bajo los efectos del alcohol, de estupefacientes o alguna sustancia que disminuya las condiciones psicofísicas
     - La somnolencia
-    - Causas que generan flata de atención al manejar
-- **Primero Auxilios**: Se trata de medidas o acciones de emergencia que pueden efectuarse sobre el lesionado en espero de personal especializado.
+    - Causas que generan falta de atención al manejar
+- **Primero Auxilios**: Se trata de medidas o acciones de emergencia que pueden efectuarse sobre el lesionado en espera de personal especializado.
     1. Resguardar a la víctima de cualquier peligro, tratando siempre de no movilizar al herido grave. Solamente en casos muy puntuales se debe mover evitando que el cuerpo se doble.
-    2. Es imprescomdobñe examinar al accidentado para conocer su estado; si está insconsciente, sangrando, respirando o si presenta fracturas.
+    2. Es imprescindible examinar al accidentado para conocer su estado; si está insconsciente, sangrando, respirando o si presenta fracturas.
         - En caso de una persona **en estado de shock**, se pondrá páñoda y sudorosa y se sentirá confusa. Se debe intentar tranquilizarla, desajustarle la ropa, acostarla de espalda con las piernas levantadas y mantenerla abrigada
-        - Cuando se necesario realizar RCP para sacarlo del estado insconsciente
+        - Cuando sea necesario realizar RCP para sacarlo del estado insconsciente
         - Es importante estar preparado con botiquín con todo lo básico necesario.
 - **Obligaciones**
     1. Detenerse inmediatamente
@@ -67,7 +67,6 @@ Se denomina siniestro de tránsito a todo hecho que produzca daño en personas o
         - Conservar el dominio efectivo del vehículo
         - Conservar apropiadamente el vehículo
         - Someterse a las reglas de tránsito
-    <br>
     El incumplimiento de alguno de estos deberes generará responsabilidad por el accidene se produzca y será obligado a reparar el daño causado.
     Características del obrar:
         - Imprudencia
