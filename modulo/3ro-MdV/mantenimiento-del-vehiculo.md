@@ -1,11 +1,11 @@
 # Mantenimiento del Vehículo
-La revisión regular del auto permite la deteción temprana de fallas, roturas o deterioro que podrían derivar en accidentes. Se pueden realizar por el dueño pero es importante llevarlo con un profesional.
+La revisión regular del auto permite la detección temprana de fallas, roturas o deterioro que podrían derivar en accidentes. Se pueden realizar por el dueño pero es importante llevarlo con un profesional.
 
 ## Revisión general del vehículo
 Aprender a realizar un buen mantenimiento al vehículo no solo es beneficioso para la vida útil del automóvil, sino para la propia seguridad.
 - Revisar el nivel del agua del radiador (No quitar el tapón si el motor se encuentra caliente)
 - Revisar el líquido de transmisión, con el motor en marcha y caliente. (Avanzar, dar marcha atrás, sacar la varilla para limpiar y meterla nuevamente para observar el verdadero valor)
-- Revisar el aceite (Sacarla varilla, limpiarla y volver a meterla para medir bien, además recordar cambiar el filtro de aceite)
+- Revisar el aceite (Sacar la varilla, limpiarla y volver a meterla para medir bien, además recordar cambiar el filtro de aceite)
 - Revisar el líquido de frenos (Asegurarse de no pasarse de la marca)
 - Revisar el depósito de agua del limpiaparabrisas para mantenerlo lleno
 - Examinar correas gastadas y conductos de goma (Estas siempre deben estar bien tensas)
