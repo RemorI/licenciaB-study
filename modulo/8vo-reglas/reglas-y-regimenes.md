@@ -67,7 +67,7 @@ Se denomina siniestro de tránsito a todo hecho que produzca daño en personas o
         - Conservar el dominio efectivo del vehículo
         - Conservar apropiadamente el vehículo
         - Someterse a las reglas de tránsito
-    El incumplimiento de alguno de estos deberes generará responsabilidad por el accidene se produzca y será obligado a reparar el daño causado.
+    - El incumplimiento de alguno de estos deberes generará responsabilidad por el accidene se produzca y será obligado a reparar el daño causado.
     Características del obrar:
         - Imprudencia
         - Impericia
